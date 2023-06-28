@@ -1,1 +1,2 @@
-# IMDb-Movie-Analysis-Project
+# IMDb Movie Analysis Project
+Author: Hank Hoang
