@@ -1,7 +1,7 @@
 # IMDb Movie Analysis Project
 ## *Author: Hank Hoang*
 
-
+* Merge 4 datasets into one dataset
 
 
 
