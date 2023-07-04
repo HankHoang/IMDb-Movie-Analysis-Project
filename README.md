@@ -1,4 +1,4 @@
-# IMDb Movie Analysis Project
+# IMDb Movie Data Analysis Project
 ## *Author: Hank Hoang*
 ### Date Created: 28/08/2023
 ### Date Finished: 
