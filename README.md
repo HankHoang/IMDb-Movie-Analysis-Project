@@ -4,6 +4,9 @@
 ### Date Finished: 
 -> The aim of this project is to extract insights from IMBd movies dataset
 * Merge 4 datasets into one dataset
+* Cleaning dataset
+* EDA
+* Visualization with Power BI
 
 
 
